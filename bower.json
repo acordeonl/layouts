@@ -17,8 +17,8 @@
     "tests"
   ],
   "dependencies": {
-    "local-dom": "acordeonl/local-dom#^1.0.2",
-    "base-layout": "acordeonl/base-layout#^1.0.0",
-    "page-views": "acordeonl/page-views#^1.0.0"
+    "local-dom": "acordeonl/local-dom#*",
+    "base-layout": "acordeonl/base-layout#*",
+    "page-views": "acordeonl/page-views#*"
   }
 }

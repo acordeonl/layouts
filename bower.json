@@ -19,6 +19,8 @@
   "dependencies": {
     "local-dom": "acordeonl/local-dom#*",
     "base-layout": "acordeonl/base-layout#*",
-    "page-views": "acordeonl/page-views#*"
+    "page-views": "acordeonl/page-views#*",
+    "recording-card": "acordeonl/recording-card#^1.0.0",
+    "recording-list": "acordeonl/recording-list#^1.0.0"
   }
 }

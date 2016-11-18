@@ -1,5 +1,5 @@
 {
-  "name": "dialogs",
+  "name": "layouts",
   "authors": [
     "acordeonl"
   ],
@@ -17,7 +17,8 @@
     "tests"
   ],
   "dependencies": {
-    "collection-dialog": "acordeonl/collection-dialog#*",
-    "prompt-dialog": "acordeonl/prompt-dialog#*"
+    "local-dom": "acordeonl/local-dom#^1.0.2",
+    "base-layout": "acordeonl/base-layout#^1.0.0",
+    "page-views": "acordeonl/page-views#^1.0.0"
   }
 }

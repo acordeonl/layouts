@@ -21,6 +21,7 @@
     "base-layout": "acordeonl/base-layout#*",
     "page-views": "acordeonl/page-views#*",
     "recording-card": "acordeonl/recording-card#^1.0.0",
-    "recording-list": "acordeonl/recording-list#^1.0.0"
+    "recording-list": "acordeonl/recording-list#^1.0.0",
+    "message-card": "acordeonl/message-card#^1.0.0"
   }
 }
